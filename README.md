@@ -1,3 +1,6 @@
+[![Drupal.org logo](https://img.shields.io/badge/-drupal.org-%230678BE?logo=drupal)](https://drupal.org/u/mirroar)
+[![Twitter logo](https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter)](https://twitter.com/TMirroar)
+
 ### Hi there 👋
 
 <!--
